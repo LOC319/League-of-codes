@@ -25,7 +25,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/Medias/New%20Piskel%20(3).gif");
+  background-image: url("Medias/New Piskel (3).gif");
   background-size: cover;
 }
 
